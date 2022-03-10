@@ -34,3 +34,19 @@
 # for a in range(x,y):
 #     if a%6==0:
 #         print(a)
+
+#15
+# x=input("what is your name")
+#
+# for i in range(4):
+#     print(x)
+
+
+#17
+# x=int(input("enter number"))
+# y=x-4
+#
+# for i in range(x):
+#     for j in range(y):
+#         print("*",end=" ")
+#     print()
